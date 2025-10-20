@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1976D2" />
+      <stop offset="100%" stop-color="#00B8D4" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#grad)" />
+  <g fill="#ffffff" fill-opacity="0.9" font-family="Inter, Arial, sans-serif">
+    <text x="80" y="220" font-size="78" font-weight="600">Altair IA</text>
+    <text x="80" y="320" font-size="40">Automatización inmobiliaria inteligente</text>
+    <text x="80" y="420" font-size="28">Panel ilustrativo — Hero</text>
+  </g>
+  <rect x="720" y="200" width="320" height="420" rx="24" ry="24" fill="#0D1B2A" fill-opacity="0.75" />
+  <g transform="translate(760 260)">
+    <rect width="240" height="12" rx="6" fill="#00B8D4" opacity="0.8" />
+    <rect y="40" width="200" height="12" rx="6" fill="#1976D2" opacity="0.6" />
+    <rect y="80" width="220" height="12" rx="6" fill="#F5F7FB" opacity="0.9" />
+    <rect y="120" width="180" height="12" rx="6" fill="#00B8D4" opacity="0.6" />
+    <rect y="160" width="210" height="12" rx="6" fill="#1976D2" opacity="0.8" />
+  </g>
+</svg>
